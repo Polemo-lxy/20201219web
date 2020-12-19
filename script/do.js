@@ -64,7 +64,7 @@ for(var i = 0; i < imgList.length; i++) {
 var topbt = document.getElementById("topbt");
 
 topbt.onclick = function(){
-	scrollTo(0,0);
+    scrollTo(0,0);
 }
 /*js效果用户注册*/
 var zhuce = document.getElementById("zhuce");
