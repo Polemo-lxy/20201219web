@@ -12,28 +12,28 @@ var guankandongmanbt = document.getElementById("guankandongmanbt");
 
 shouyebt.onclick = function(){
     shouyebeijing.style.display='block';
-	tuku.style.display='none';
+    tuku.style.display='none';
     xiaojuchang.style.display='none';
     dongman.style.display='none';
     login.style.display='none';
 }
 tukubt.onclick = function(){
     shouyebeijing.style.display='none';
-	tuku.style.display='block';
+    tuku.style.display='block';
     xiaojuchang.style.display='none';
     dongman.style.display='none';
     login.style.display='none';
 }
 xiaojuchangbt.onclick = function(){
     shouyebeijing.style.display='none';
-	tuku.style.display='none';
+    tuku.style.display='none';
     xiaojuchang.style.display='block';
     dongman.style.display='none';
     login.style.display='none';
 }
 guankandongmanbt.onclick = function(){
     shouyebeijing.style.display='none';
-	tuku.style.display='none';
+    tuku.style.display='none';
     xiaojuchang.style.display='none';
     dongman.style.display='block';
     login.style.display='none';
