@@ -1,0 +1,241 @@
+.navback{
+    height:40px;
+    background-color:rgb(247, 245, 245);
+}
+.first{
+    width:1200px;
+    margin:0 auto;
+}
+
+#navigation>li{
+    display:inline;
+    width:100px;
+    float:left;
+    text-align: center;
+    height:40px;
+    line-height:40px;
+}
+#navigation>li>button{
+    border:0px;
+    width:100px;
+    height:30px;
+}
+
+#message{
+    width:600px;
+    height:40px;
+    float:right;
+}
+#message>li{
+    display:inline-block;
+    height:40px;
+    line-height:40px;
+}
+#zhuce button{
+    border:0px;
+    height:30px;
+}
+#zhuce,#denglu{
+    width:100px;
+}
+#login{
+    display:none;
+    margin-left:40%;
+    margin-top:10%;
+}
+table{
+    display:inline-block;
+    width:300px;
+    height:300px;
+}
+#tb1{
+    float:left;
+}
+#tb2{
+    float:left;
+    color:red;
+    width:500px;
+    
+}
+#suc1{
+    height:50px;
+}
+#suc2{
+    height:50px;
+}
+#suc3{
+    height:50px;
+}
+#user{
+    border-color:rgb(161, 161, 161);
+    border-style:solid;
+    border-width:1px;
+    height:30px;
+    color:rgb(114, 114, 114);
+}
+#password{
+    border-color:rgb(161, 161, 161);
+    border-style:solid;
+    border-width:1px; 
+    height:30px;
+    color:rgb(114, 114, 114);
+}
+#usertext{
+    color:gray;
+}
+#passwordtext{
+    color:gray;
+}
+td{
+    width:250px;
+}
+#sub{
+    width:250px;
+    height:30px;
+    background-color: red;
+    color:white;
+}
+input{
+    border:0;
+    
+}
+input:focus{
+    border:0;
+    outline:none;
+}
+.warn{
+    height:15px;
+    font-size:10px;
+    color:rgb(161, 161, 161);
+}
+#sousuokuang{
+    width:250px;
+}
+#sousuo{
+    width:150px;
+    height:30px;
+    color:rgb(172, 171, 171);
+}
+#soubtn{
+    width:30px;
+    height:30px;
+    background-image:url(../picture/big.jpg);
+    border:0px;
+}
+
+#sousuo:focus{
+    outline:none;
+}
+#sousuo,#soubtn{
+    vertical-align:middle;
+}
+
+#shouyebeijing{
+    background-image:url(../picture/linglong.jpg);
+    background-position:center;
+    background-repeat:no-repeat;
+    height:1080px;
+    width:100%;
+    display:block;
+}
+.first2{
+    width:1200px;
+}
+
+#jianjietitle{
+    text-align: center;
+    font-size:70px;
+    color:#f7f1bb94;
+    width:1200px;
+    text-align:center;
+    display:block;
+}
+#jianjie{
+    font-size:30px;
+    text-indent:60px;
+    color:rgba(78, 201, 241, 0.466);
+    width:1200px;
+    height:300px;
+    display:inline;
+}
+
+#tuku{
+    display:none;
+    height:1080px;
+    width:100%;
+}
+#xiaojuchang{
+    display:none;
+    height:800px;
+    width:100%;
+    background-image:url(../picture/xiaojuchang.png);
+    background-repeat:no-repeat;
+    background-position:center;
+}
+#xiaojuchang div{
+    padding-top:5%;
+    width:1000px;
+    height:100px;
+    margin:0 auto;
+}
+#xiaojuchang a{
+    width:100px;
+    height:50px;
+    padding-left:40%;
+}
+#dongman{
+    display:none;
+    height:900px;
+    width:100%;
+    background-image:url(../picture/dongman.jpg);
+    background-size:auto 950px;
+    background-position:center;
+    background-repeat:no-repeat;
+}
+#dongman a{
+    
+    border:2px solid rgb(39, 24, 49);
+    margin-left:40%;
+    color:bisque;
+    height:700px;
+    line-height: 700px;
+}
+
+.bot{
+    height:150px;
+    background-color:rgb(247, 245, 245);
+}
+.bottom>ul{
+    display:inline;
+    float:left;
+    margin-top:3%;
+    margin-left:10%;
+}
+.bottom>ul>li>a{
+    color:black;
+}
+.bottom>ul>li>a:hover{
+    color:rgb(158, 223, 243);
+}
+
+
+#main{
+
+    width:1000px;
+    margin:0 auto;
+}
+#smallpic{
+    height:120px; 
+}
+#tuku img{
+    float:left; 
+    margin-right:10px; 
+    margin-bottom:10px;
+}
+
+#smallpic img:hover{
+    cursor:pointer;
+}
+.pb {
+    border:3px solid red;
+}
